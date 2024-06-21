@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jananirramesh
-- 👀 I’m interested in... core based work
-- 🌱 I’m currently learning... B.E ekectronics and communication engineering 
-- 💞️ I’m looking to collaborate on...interships
-- 📫 How to reach me ...jananiramesh89@gmail.com
+- 👀 I’m interested in core based work
+- 🌱 I’m currently learning B.E ekectronics and communication engineering 
+- 💞️ I’m looking to collaborate on interships
+- 📫 How to reach me jananiramesh89@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
